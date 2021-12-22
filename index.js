@@ -51,4 +51,4 @@ console.log('yes')
 
 console.log('yes')
 
-window.alert('f')
+window.alert('fuck shit')
